@@ -24,7 +24,7 @@ photo-gallery/
 │── images/         # Folder containing images
 │── README.md       # Project documentation
 ```
-
+LIVE DEMO :  coruscating-mandazi-1d0c1f.netlify.app
 ## 🚀 Getting Started
 ### 1️⃣ Clone the repository
 ```
